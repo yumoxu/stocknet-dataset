@@ -1,0 +1,4 @@
+{"text": ["$", "pfe", "low", "date", "=", "jan", "-02-2015", "open", "=", "31.27", "high", "=", "31.78", "low", "=", "31.22", "close", "=", "31.33", "volume", "=", "15532700", "URL"], "created_at": "Mon Jan 05 14:50:50 +0000 2015", "user_id_str": "2181346825"}
+{"text": ["$", "pfe", "$", "brks", ":", "top", "news", ":", "pfizer", "inc", ".", "(", "nyse", ":p", "fe", ")", ",", "general", "electric", "company", "...", "URL", "URL"], "created_at": "Mon Jan 05 12:28:15 +0000 2015", "user_id_str": "2341281566"}
+{"text": ["$", "pfe", ":", "pfizer", "(", "pfe", ")", "takes", "controlling", "stake", "in", "redvax", "gmbh", "URL", "URL"], "created_at": "Mon Jan 05 12:38:04 +0000 2015", "user_id_str": "2341281566"}
+{"text": ["$", "pfe", ":", "us", "pfizer", "inc", ".", "(", "pfe", ")", "closes", "0.58", "%", "up", "on", "the", "day", "for", "january", "02", "pfizer", "inc", "URL", "sp500"], "created_at": "Sun Jan 04 23:05:58 +0000 2015", "user_id_str": "2643714854"}

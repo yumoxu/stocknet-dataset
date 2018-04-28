@@ -1,0 +1,6 @@
+{"text": ["block", "trade", ":", "$", "ge", "1,000", ",", "000", "shares", "@", "$", "29.24", "[", "11:30", ":", "17", "]"], "created_at": "Mon Oct 19 15:30:19 +0000 2015", "user_id_str": "581221150"}
+{"text": ["rt", "AT_USER", "block", "trade", ":", "$", "ge", "700,000", "shares", "@", "$", "29.19", "[", "11:01", ":", "58", "]"], "created_at": "Mon Oct 19 15:02:33 +0000 2015", "user_id_str": "38837865"}
+{"text": ["our", "pick", "on", "$", "gequ", "multiplied", "more", "than", "35", "times", "it's", "value", "since", "the", "initial", "alert", "!", "big", "news", ":", "URL", "$", "bmsn", "$", "c", "$", "ge"], "created_at": "Mon Oct 19 13:13:59 +0000 2015", "user_id_str": "3243313260"}
+{"text": ["$", "ge", "active", ",", "relative", "volume", ":", "4.17", ",", "1h", ",", "10:00", "am", ",", "nyse", "$", "dji", "$", "spy", "URL"], "created_at": "Mon Oct 19 04:41:50 +0000 2015", "user_id_str": "2863026998"}
+{"text": ["AT_USER", "$", "ge", "ge's", "growth", "story", "wins", "price", "target", "hikes", "from", "analysts", "URL"], "created_at": "Mon Oct 19 18:55:04 +0000 2015", "user_id_str": "3017654325"}
+{"text": ["$", "ge", "active", ",", "relative", "volume", ":", "10.56", ",", "1h", ",", "8:", "00", "am", ",", "nyse", "$", "dji", "$", "spy", "URL"], "created_at": "Mon Oct 19 02:56:23 +0000 2015", "user_id_str": "2863026998"}

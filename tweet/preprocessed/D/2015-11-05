@@ -1,0 +1,4 @@
+{"text": ["rt", "AT_USER", "a", "$", "ap", "rocky", "-", "l", "$", "d", "URL"], "created_at": "Thu Nov 05 04:04:26 +0000 2015", "user_id_str": "608595831"}
+{"text": ["drivin", "around", "with", "my", "system", "bumpin", "l", "$", "d"], "created_at": "Thu Nov 05 21:22:25 +0000 2015", "user_id_str": "2449915669"}
+{"text": ["rt", "AT_USER", "l", "$", "d"], "created_at": "Thu Nov 05 16:28:39 +0000 2015", "user_id_str": "939954174"}
+{"text": ["=", "vlookup", "(", "a2", ",", "'", "jasmin", "files", "[", "titels", "pkg", "4", "nick.xlsx", "]", "sheet", "1", "'", "!", "$", "a", ":", "$", "d", ",", "4", ",", "false", ")", "URL", "URL"], "created_at": "Thu Nov 05 16:49:27 +0000 2015", "user_id_str": "3852216134"}

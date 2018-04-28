@@ -1,0 +1,8 @@
+{"text": ["am_alerts", ":", "$", "ge", "active", ",", "relative", "volume", ":", "3.42", ",", "1h", ",", "10:00", "pm", ",", "nyse", "$", "dji", "$", "spyURL"], "created_at": "Tue May 26 02:15:18 +0000 2015", "user_id_str": "2862599829"}
+{"text": ["ge", "general", "electric", "co", ".", "ideas", "URL", "$", "ge", "$", "gs", "$", "jnug", "$", "fb", "ge", "stockmarket", "nasdaq"], "created_at": "Tue May 26 10:37:43 +0000 2015", "user_id_str": "2181346825"}
+{"text": ["ge", "general", "electric", "co", ".", "tick", "URL", "$", "ge", "$", "gdxj", "$", "urre", "$", "fv", "ge", "stock", "invest"], "created_at": "Tue May 26 13:39:17 +0000 2015", "user_id_str": "2181357950"}
+{"text": ["qld", "proshares", "ultra", "qqq", "fund", "company", "info", "URL", "$", "qld", "$", "ge", "$", "sbgi", "$", "jdst", "qld", "stockmarket", "stockmarket"], "created_at": "Tue May 26 13:45:11 +0000 2015", "user_id_str": "2285996066"}
+{"text": ["$", "ge", "URL"], "created_at": "Tue May 26 19:24:24 +0000 2015", "user_id_str": "81080302"}
+{"text": ["biib", "biogen", "inc", ".", "e", ".", "p", ".", "s", ".", "URL", "$", "biib", "$", "sbux", "$", "googl", "$", "ge", "biib", "invest", "finance"], "created_at": "Tue May 26 19:33:10 +0000 2015", "user_id_str": "2181373892"}
+{"text": ["ge", "gilead", "sciences", ",", "inc", ".", "52wk", "low", "URL", "$", "ge", "$", "tvix", "$", "fcx", "$", "aveo", "ge", "pennystocks", "stockmarket"], "created_at": "Tue May 26 04:39:06 +0000 2015", "user_id_str": "2181373892"}
+{"text": ["mdrx", "minerco", "resources", "inc", ".", "summary", "URL", "$", "mdrx", "$", "ge", "$", "t", "$", "td.to", "mdrx", "nasdaq", "share"], "created_at": "Tue May 26 04:42:36 +0000 2015", "user_id_str": "2181403417"}
