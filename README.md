@@ -7,7 +7,7 @@ Yumo Xu and Shay B. Cohen. 2018. Stock Movement Prediction from Tweets and Histo
 > Stock movement prediction is an attractive but tough task: the market is highly stochastic, and we make temporally-dependent predictions from chaotic data. We treat these three complexities and present a novel deep generative model jointly exploiting text and price signals for this task. Unlike the case with discriminative or topic modeling, our model introduces recurrent, continuous latent variables for a
 better treatment of stochasticity, and uses neural variational inference to address the intractable posterior inference. We also provide a hybrid objective with  temporal auxiliary to flexibly capture predictive dependencies. We demonstrate the state-of-the-art performance of our proposed model on a new stock movement prediction dataset which we collected.
 
-Should you have any query please [contact me](mailto:s1617290@sms.ed.ac.uk).
+Should you have any query please contact me at [yumo.xu@ed.ac.uk](mailto:yumo.xu@ed.ac.uk).
 
 ## Dataset Overview
 Two-year price movements from 01/01/2014 to 01/01/2016 of 88 stocks are selected to target, coming from all the 8 stocks in the Conglomerates sector and the top 10 stocks in capital size in each of the other 8 sectors. The full list of 88 stocks and their companies selected from 9 sectors is available in ***appendix\_table\_of\_target\_stocks.pdf***.
