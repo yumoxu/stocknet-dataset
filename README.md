@@ -10,23 +10,23 @@ better treatment of stochasticity, and uses neural variational inference to addr
 Should you have any query please contact me at [yumo.xu@ed.ac.uk](mailto:yumo.xu@ed.ac.uk).
 
 ## Dataset Overview
-Two-year price movements from 01/01/2014 to 01/01/2016 of 88 stocks are selected to target, coming from all the 8 stocks in the Conglomerates sector and the top 10 stocks in capital size in each of the other 8 sectors. The full list of 88 stocks and their companies selected from 9 sectors is available in ***appendix\_table\_of\_target\_stocks.pdf***.
+Two-year price movements from 01/01/2014 to 01/01/2016 of 88 stocks are selected to target, coming from all the 8 stocks in the Conglomerates sector and the top 10 stocks in capital size in each of the other 8 sectors. The full list of 88 stocks and their companies selected from 9 sectors is available in **appendix\_table\_of\_target\_stocks.pdf**.
 
 ## Data Component
 This dataset comprises two main components,
 
-* ***./tweet***: tweet data from [Twitter](https://twitter.com/)
-* ***./price***: price data from [Yahoo Finance](http://nance.yahoo.com/) 
+* **./tweet**: tweet data from [Twitter](https://twitter.com/)
+* **./price**: price data from [Yahoo Finance](http://nance.yahoo.com/) 
 
-Each component contain their raw data and preprocessed data organized by stocks,  
+Each component contains their raw data and preprocessed data organized by stocks,  
 
-* ***./tweet/raw***
-* ***./tweet/preprocessed***
+* **./tweet/raw**
+* **./tweet/preprocessed**
 
 and  
 
-* ***./price/raw***  
-* ***./price/preprocessed***
+* **./price/raw**  
+* **./price/preprocessed**
 
 ## Data Format
 
