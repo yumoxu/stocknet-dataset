@@ -1,0 +1,89 @@
+Sector	Symbol	Company
+Basic Matierials	$XOM	Exxon Mobil Corporation
+Basic Matierials	$RDS-B	Royal Dutch Shell
+Basic Matierials	$PTR	PetroChina Company Limited
+Basic Matierials	$CVX	Chevron Corporation
+Basic Matierials	$TOT	TOTAL S.A.
+Basic Matierials	$BP	BP p.l.c.
+Basic Matierials	$BHP	BHP Billiton Limited
+Basic Matierials	$SNP	China Petroleum & Corporation
+Basic Matierials	$SLB	Schlumberger Limited
+Basic Matierials	$BBL	BHP Billiton plc
+Consumer Goods	$AAPL	Apple Inc.
+Consumer Goods	$PG	The Procter & Gamble
+Consumer Goods	$BUD	Anheuser-Busch InBev SA/NV Company
+Consumer Goods	$KO	The Coca-Cola Company
+Consumer Goods	$PM	Philip Morris International
+Consumer Goods	$TM	Toyota Motor Corporation
+Consumer Goods	$PEP	Pepsico  Inc.
+Consumer Goods	$UN	Unilever N.V.
+Consumer Goods	$UL	Unilever PLC
+Consumer Goods	$MO	Altria Group Inc.
+Healthcare	$JNJ	Johnson & Johnson
+Healthcare	$PFE	Pfizer Inc.
+Healthcare	$NVS	Novartis AG
+Healthcare	$UNH	UnitedHealth Group Incorporated 
+Healthcare	$MRK	Merck & Co.
+Healthcare	$AMGN	Amgen Inc.
+Healthcare	$MDT	Medtronic plc
+Healthcare	$ABBV	AbbVie Inc.
+Healthcare	$SNY	Sanofi
+Healthcare	$CELG	Celgene Corporation
+Services	$AMZN	Amazon.com  Inc.
+Services	$BABA	Alibaba Group Holding
+Services	$WMT	Wal-Mart Stores Inc.
+Services	$CMCSA	Comcast Corporation
+Services	$HD	The Home Depot
+Services	$DIS	The Walt Disney
+Services	$MCD	McDonald's Corporation   
+Services	$CHTR	Charter Communications Inc.
+Services	$UPS	United Parcel Service Inc.
+Services	$PCLN	The Priceline Group
+Utilities	$NEE	NextEra Energy Inc. 
+Utilities	$DUK	Duke Energy Corporation
+Utilities	$D	Dominion Energy Inc.
+Utilities	$SO	The Southern Company
+Utilities	$NGG	National Grid plc
+Utilities	$AEP	American Electric Power Inc.
+Utilities	$PCG	PG&E Corporation
+Utilities	$EXC	Exelon Corporation
+Utilities	$SRE	Sempra Energy
+Utilities	$PPL	PPL Corporation
+Conglomerates	$IEP	Icahn Enterprises L.P. 
+Conglomerates	$HRG	HRG Group  Inc.
+Conglomerates	$CODI	Compass Diversified Holdings
+Conglomerates	$REX	REX American Resources
+Conglomerates	$SPLP	Steel Partners Holdings
+Conglomerates	$PICO	PICO Holdings Inc.
+Conglomerates	$AGFS	AgroFresh Solutions Inc.
+Conglomerates	$GMRE	Global Medical REIT
+Financial	$BCH	Banco de Chile
+Financial	$BSAC	Banco Santander-Chile
+Financial	$BRK-A	Berkshire Hathaway Inc.
+Financial	$JPM	JPMorgan Chase & Co.
+Financial	$WFC	Wells Fargo & Co.
+Financial	$BAC	Bank of America
+Financial	$V	Visa Inc.
+Financial	$C	Citigroup Inc.
+Financial	$HSBC	HSBC Holdings plc
+Financial	$MA	Mastercard Incorporated 
+Industrial Goods	$GE	General Electric Company 
+Industrial Goods	$MMM	3M Company
+Industrial Goods	$BA	The Boeing Company
+Industrial Goods	$HON	Honeywell International Inc.
+Industrial Goods	$UTX	United Technologies Corporation
+Industrial Goods	$LMT	Lockheed Martin Corporation
+Industrial Goods	$CAT	Caterpillar Inc.
+Industrial Goods	$GD	General Dynamics Corporation
+Industrial Goods	$DHR	Danaher Corporation
+Industrial Goods	$ABB	ABB Ltd
+Technology	$GOOG	Alphabet Inc.
+Technology	$MSFT	Microsoft Corporation
+Technology	$FB	Facebook Inc.
+Technology	$T	AT&T Inc.
+Technology	$CHL	China Mobile Limited
+Technology	$ORCL	Oracle Corporation
+Technology	$TSM	Taiwan Semiconductor Manufacturing Company Limited
+Technology	$VZ	Verizon Communications Inc.
+Technology	$INTC	Intel Corporation
+Technology	$CSCO	Cisco Systems Inc.
