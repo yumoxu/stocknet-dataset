@@ -5,6 +5,8 @@ This repository releases a comprehensive dataset for stock movement prediction f
 Yumo Xu and Shay B. Cohen. 2018. [Stock Movement Prediction from Tweets and Historical Prices](http://aclweb.org/anthology/P18-1183). In Proceedings of the 56st Annual Meeting of the Association for Computational Linguistics. Melbourne, Australia, volume 1.
 > Stock movement prediction is a challenging problem: the market is highly *stochastic*, and we make *temporally-dependent* predictions from *chaotic* data. We treat these three complexities and present a novel deep generative model jointly exploiting text and price signals for this task. Unlike the case with discriminative or topic modeling, our model introduces recurrent, continuous latent variables for a better treatment of stochasticity, and uses neural variational inference to address the intractable posterior inference. We also provide a hybrid objective with  temporal auxiliary to flexibly capture predictive dependencies. We demonstrate the state-of-the-art performance of our proposed model on a new stock movement prediction dataset which we collected.
 
+You might also be interested in [our code](https://github.com/yumoxu/stocknet-code) for stock movement prediction. 
+
 Should you have any query please contact me at [yumo.xu@ed.ac.uk](mailto:yumo.xu@ed.ac.uk).
 
 ## Dataset Overview
@@ -45,3 +47,4 @@ Entries: date, open price, high price, low price, close price, adjust close pric
 Format: TXT  
 Entries: date, movement percent, open price, high price, low price, close price, volume  
 Note: *open, high, low, close prices are normalized values.*
+
